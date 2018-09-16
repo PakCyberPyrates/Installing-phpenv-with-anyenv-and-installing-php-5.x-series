@@ -1,6 +1,15 @@
 * It takes quite a long time to finish all the time.
 
 
+fix  the issue by installing extra libraries, the whole list
+
+sudo apt-get install -y autoconf g++ make openssl libssl-dev libcurl4-openssl-dev
+
+sudo apt-get install -y libcurl4-openssl-dev pkg-config
+
+sudo apt-get install -y libsasl2-dev
+
+
 
 $ cat /etc/lsb-release
 
