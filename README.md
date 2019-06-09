@@ -41,7 +41,7 @@ $ sudo dpkg -i bison_2.6.2.dfsg-1_amd64.deb
 
 phpenv install -l
 
-phpenv install 5.3.29 && phpenv install 5.6.26 && phpenv install 7.0.11
+phpenv install 5.4.45 && phpenv install 5.5.38 && phpenv install 5.6.40 && phpenv install 7.1.30 && phpenv install 7.2.19 && phpenv install 7.3.6 && phpenv install 7.4snapshot
 
 phpenv global 7.0.11
 
