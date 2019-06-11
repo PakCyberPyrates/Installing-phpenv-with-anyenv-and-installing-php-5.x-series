@@ -484,6 +484,16 @@ phpenv global 7.0.11
 php --version
 
 
-phpenv global 5.3.29
+phpenv global 5.4.45
+
+phpenv global 5.5.38
+
+phpenv global 5.6.40
+
+phpenv global 7.1.30
+
+phpenv global 7.2.19 
+
+phpenv global 7.3.6
 
 phpenv install -l
